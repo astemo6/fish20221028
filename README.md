@@ -1,5 +1,16 @@
-## 墨魚手記 新库地址：(https://ddgksf2013.notion.site/Cuttlefish-37a8a0cfac2247609d408db3d963c6d2)
+[![Stars](https://img.shields.io/gitlab/stars/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com&style=social)](https://gitlab.com/ddgksf2013/Cuttlefish/-/starrers)
+[![Fork](https://img.shields.io/gitlab/forks/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F&style=social)](https://gitlab.com/ddgksf2013/Cuttlefish/-/forks)
+[![Commit](https://img.shields.io/gitlab/last-commit/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F)](https://gitlab.com/ddgksf2013/Cuttlefish/-/commits/master)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021)
+[![Issues](https://img.shields.io/gitlab/issues/open/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F)](https://gitlab.com/ddgksf2013/Cuttlefish/-/issues)
+[![](https://img.shields.io/gitlab/languages/count/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F)](https://github.com/ddgksf2013)
+[![](https://img.shields.io/badge/Author-%E5%A2%A8%E9%B1%BC%E6%89%8B%E8%AE%B0-brightgreen)](https://github.com/ddgksf2013)
 
+## 墨魚手記（[自用](https://gitlab.com/ddgksf2013/Cuttlefish/-/blob/master/Rewrite/README.md "感谢赞助")）
+[![Cuttlefish's GitLab stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)](https://gitlab.com/ddgksf2013/Cuttlefish)
+
+
+> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://gitlab.com/ddgksf2013/Cuttlefish)
 
 ## 1️⃣QuantumultX 小白2.0配置： 
 * 配置更新时间：2022-10-22</font>
