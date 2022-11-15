@@ -3,8 +3,8 @@
 // @Author            Cuttlefish
 // @Tg group          https://t.me/ddgksf2013
 // @WechatID          公众号墨鱼手记
-// @UpdateTime        20200910
-// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/sample.js
+// @UpdateTime        2022-05-03
+// @ScriptURL         https://codeberg.org/ddgksf2013/Cuttlefish/raw/branch/master/Crack/sample.js
 // ==/UserScript==
 
 // ==KeyExplain==
@@ -15,6 +15,7 @@
 // @replaceValue      字段key替换之后的value
 // @/g                正则匹配时匹配多个key键值
 // ==/KeyExplain==
+
 
 var body = $response.body.replace(/"key1":originalValue/g, '"key1":replaceValue').replace(/"key2":originalValue/g, '"key2":replaceValue')
 $done({ body });

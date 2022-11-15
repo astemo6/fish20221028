@@ -5,7 +5,7 @@
 > 腳本作者：Cuttlefish
 > 微信賬號：墨魚手記
 > 解鎖說明：解鎖高級會員權限
-> 更新時間：2022-07-15
+> 更新時間：2022-07-25
 > 通知頻道：https://t.me/ddgksf2021
 > 問題反饋：https://t.me/ddgksf2013_bot
 > 特別說明：⛔⛔⛔
@@ -14,7 +14,7 @@
 [rewrite_local]
   
 # ～ 醒图&Ulike&轻颜相机&vaporcam（四合一）解鎖會員權限（2022-05-09）@ddgksf2013
-https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVerifyReceipt.php|v1/subscription/user_info) url script-response-body https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/commerce.js
+https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVerifyReceipt.php|v1/subscription/user_info) url script-response-body https://codeberg.org/ddgksf2013/Cuttlefish/raw/branch/master/Crack/commerce.js
 
 [mitm] 
 hostname=commerce-i18n-api.faceu.mobi,commerce-api.faceu.mobi, pay.wecut.com
@@ -36,13 +36,15 @@ if ($request.url.indexOf(path1) != -1)
            tmp.is_cancel_subscribe = false;
            tmp.subscribe_type = "auto";
            tmp.flag = true;
-           JSON.stringify(tmp);
-           ddgksf2013.response =  tmp;  
+           tmp.cycle_unit = "12";
+           ddgksf2013.response =  JSON.stringify(tmp);  
      }
     ddgksf2013.data.start_time = 1584674770;
     ddgksf2013.data.end_time = 4077660370;
     ddgksf2013.data.is_cancel_subscribe = false;
+    ddgksf2013.data.subscribe_type = "auto";
     ddgksf2013.data.flag = true;
+    ddgksf2013.data.cycle_unit = "12";
 }
 if ($request.url.indexOf(path2) != -1)
 {

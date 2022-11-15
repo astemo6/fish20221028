@@ -1,27 +1,20 @@
-**Awesome Github**
-* Update Time: 2022-04-05
-* 备份一些Github库源
+### 你可能不知道的消息
+## 更新时间：2022-11-01
 
-| 名称 | 网址 | 备注 |
-| :-- | :-- | :-: |
-| 墨鱼手记 | https://github.com/ddgksf2013/Cuttlefish |  |
-| 油管下载 | https://github.com/database64128/youtube-dl-wpf |  |
-| 音乐下载 | https://github.com/Java-S12138/Music_Dowload |  |
-| 网易云音乐下载 | https://github.com/CcphAmy/NetEaseCloudMusic-nonmembership-list-download |  |
-| 微信聊天记录导出  | https://github.com/BlueMatthew/WechatExporter |  |
-| 蓝奏云GUI | https://github.com/rachpt/lanzou-gui |  |
-| ClashN | https://github.com/2dust/clashN/ |  |
-| 动画疯自动下载 | https://github.com/miyouzi/aniGamerPlus |  |
-| 文章同步助手 | https://github.com/wechatsync/Wechatsync |  |
-| 人人影视bot | https://github.com/tgbot-collection/YYeTsBot |  |
-| 面试刷题 | https://github.com/liyupi/mianshiya-public | | 
-| 微信读书助手 | https://github.com/arry-lee/wereader | | 
-| B站工具合集 | https://github.com/HCLonely/awesome-bilibili-extra | |
-| 字幕机翻助手 | https://github.com/1c7/Translate-Subtitle-File | |
-| 万能win&office激活 | https://github.com/zbezj/HEU_KMS_Activator | |
-| 直播源 | https://github.com/iptv-org/iptv | |
-| 阿里云盘小白羊 | https://github.com/liupan1890/aliyunpan | |
-| Apple相关服务解锁 | https://github.com/VirgilClyne/iRingo/tree/main#quantumult-x |
-| 投稿助手 | https://t.me/ddgksf2013_bot |  |
-
+| 序号 | 内容  | 
+| :--- |:-----|
+| 1    | QX打开始终开启后，便可以将其从后台划掉                  |
+| 2    | B站看出差番，视频加载成功后，便可以将策略切换直连       |
+| 3    | 微信朋友圈的广告是去不掉的，除非将手机号换绑非大陆号    |
+| 4    | B站换区提示“策略组名未填写”，去boxjs设置                |
+| 5    | 用脚本听Spotify音乐，音质不能设置极高                   |
+| 6    | B站规则解锁普通视频高码率仅适用国区粉色APP              |
+| 7    | 抖音最新版增加了防MIMT措施，因此无法去广告              |
+| 8    | 如果APP开屏广告仍然存在，请卸载重装，还是不行则没有     |
+| 9    | 观看TikTok请使用旧版V21.1.0、重写规则，拔卡则无需旧版应用 |
+| 10    | IOS16天气已无法mimt,请添加-weather-data.apple.com |
+| 11    | QX域名类：host＞host-suffix＞host-keyword＞ip类＞geoip＞final |
+| 12    |如果B站去广告间歇性失效，可在[filter_local]下添加ip-cidr, 203.107.1.1/24, reject |
+| 13    |Bilibili大会员每月可以领取5币，这个币咸鱼有人收，3元，注意不要浪费了 |
+| 14 | 滴答清单最新版已禁止mimt，故无法通过脚本crack(<=6.3.80) |
 

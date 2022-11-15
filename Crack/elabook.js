@@ -13,7 +13,7 @@
 [rewrite_local]
 
 # ～ 咿啦看書解鎖會員權限（2022-02-17）@ddgksf2013
-https?:\/\/bookapi\.ellabook\.cn\/rest\/api\/service$ url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/elabook.js
+https?:\/\/bookapi\.ellabook\.cn\/rest\/api\/service$ url script-response-body https://codeberg.org/ddgksf2013/Cuttlefish/raw/branch/master/Crack/elabook.js
 
 [mitm] 
 
