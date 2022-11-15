@@ -1,9 +1,6 @@
 ## 墨魚手記 新库地址：(https://ddgksf2013.notion.site/Cuttlefish-37a8a0cfac2247609d408db3d963c6d2)
 
 
-
-> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://gitlab.com/ddgksf2013/Cuttlefish)
-
 ## 1️⃣QuantumultX 小白2.0配置： 
 * 配置更新时间：2022-10-22</font>
 * 墨鱼自用QX配置 [***Cuttlefish.conf***](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Profile/QuantumultX.conf) 
